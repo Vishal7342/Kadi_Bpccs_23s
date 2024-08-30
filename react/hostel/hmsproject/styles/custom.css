@@ -1,0 +1,10 @@
+.bannerContainer{
+    background-image: url('../public/banner.jpg');
+    background-size: 100% 650px;
+    height: 650px;
+    padding-top: 50px !important;
+    padding-left: 92px;
+}
+.mini_description{
+
+}
