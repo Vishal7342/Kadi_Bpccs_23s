@@ -1,9 +1,11 @@
 import React from 'react'
+import Nevbar from './nevbar';
 
 const App = () => {
   return (
     <>
-      <h1>fdgd fdf</h1>
+      <Nevbar/>
+      
     </>
   )
 }
